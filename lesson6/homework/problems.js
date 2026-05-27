@@ -1,22 +1,25 @@
 // Problem 1
-// Count and print how many times "Alex" appears in the list.
+// Write a function that returns "penguin" and print the result.
 
 
 
 // Problem 2
-// Search for "elephant" in the list and print if it's found.
+// Write a function that takes two parameters: first_name and last_name.
+// The function should return a string that combines the first and last names separated by a space.
 
 
 
 // Problem 3
-// Count and print how many scores are 100.
+// Write a function called calculate_perimeter that takes two parameters: length and width.
+// The function should return the perimeter of a rectangle (2 * (length + width)).
 
 
 
 // Problem 4
-// Search for the color "blue" in the list and print its index if it's found.
+// Use a while loop to print the even numbers from 2 to 12 (inclusive).
 
 
 
 // Problem 5
-// Count and print how many temperatures in the list are below zero.
+// Use a while loop to count down from 20 to 0 by 5.
+

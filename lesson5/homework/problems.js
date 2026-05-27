@@ -1,32 +1,23 @@
 // Problem 1
-// Create a list of 3 operating systems.
-// Print the last one using length.
-// Then reverse the list and print it.
+// Count and print how many scores are 100.
 
 
 
 // Problem 2
-// Create a list of 4 school subjects.
-// Print the second subject.
-// Then sort them alphabetically and print the result.
+// Search for the color "blue" in the list and print its index if it's found.
 
 
 
 // Problem 3
-// Create a list of 5 error codes.
-// Print how many there are.
-// Then find the index of "403" and print it.
+// Find and print the sum of all the numbers less than -10 in the list.
 
 
 
 // Problem 4
-// Create a list of 2 programming languages.
-// Print a random one.
-// Then append another language and print the list.
+// Find and print the biggest number less than 100 in the list.
 
 
 
 // Problem 5
-// Create a list of 6 passwords.
-// Print the one in the middle using length.
-// Then remove the first password in the list and print it.
+// Find and print the total sum of all the numbers in the list.
+

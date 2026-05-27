@@ -1,17 +1,17 @@
 // Problem 1
-// Ask the user to enter their height in centimeters.
+// Create a variable for height in centimeters.
 // Print "Tall" if the height is greater than 170, otherwise print "Short".
 
 
 
 // Problem 2
-// Ask the user for their age.
+// Create a variable for age.
 // If they are 18 or older, print "Adult", else print "Minor".
 
 
 
 // Problem 3
-// Ask the user to enter a number.
+// Create a variable for a number.
 // Print "Fizz" if it is divisible by 3, "Buzz" if divisible by 5,
 // print "FizzBuzz" if divisible by both 3 and 5,
 // otherwise print the number itself.
@@ -19,14 +19,14 @@
 
 
 // Problem 4
-// Generate a random number between 1 and 6 (inclusive).
-// If the number is greater than 4, print "High roll!",
-// otherwise print "Low roll!".
+// Create a variable for a password.
+// If the password is "sova" or "coding", print "Access granted".
+// Otherwise print "Access denied".
 
 
 
 // Problem 5
-// Ask the user for their test score (0-100).
+// Create a variable for a test score (0-100).
 // Print the grade based on score:
 //   90 and above: "A"
 //   80 to 89: "B"
@@ -34,3 +34,4 @@
 //   60 to 69: "D"
 //   below 60: "F"
 // Use nested if or else if statements.
+

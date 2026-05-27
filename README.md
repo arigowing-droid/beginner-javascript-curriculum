@@ -1,20 +1,16 @@
-# Sova Coding JavaScript Fundamentals Curriculum
+# Sova Coding Beginner JavaScript Curriculum
 
 ## Overview
-This curriculum is designed for absolute beginners in JavaScript programming, gradually introducing concepts across 10 lessons.  
+This curriculum is designed for absolute beginners in JavaScript programming, gradually introducing concepts across 6 lessons.  
 It includes **practice problems**, **examples**, and **homework** to reinforce learning.
 
 The lessons cover:  
-1. Printing, variables, importing files  
-2. Casting, math operators, user input, `for` loops  
-3. Comparison operators, `if/else`, modulo, random numbers  
-4. Logical operators  
-5. Arrays (indexing, length, random choice, functions)  
-6. Searching arrays & counting items  
-7. Summing and finding largest items in arrays  
-8. Functions (return values, local/global variables, common errors)  
-9. `while` loop  
-10. **Large Problem Set** of 15 problems of varying difficulty covering **all previous lessons**
+1. Printing, comments, and variables
+2. Casting, math operators, and `for` loops
+3. Comparison operators, `if/else`, modulo, and logical operators
+4. Random numbers and arrays
+5. Searching arrays, counting, summing, and finding the largest item
+6. Functions, local/global variables, and `while` loops
 
 ---
 
@@ -24,18 +20,16 @@ The lessons cover:
 - After instruction, students complete **problem sets** for practice.  
 - The problems **do not** contain answers: students are expected to attempt solutions themselves.  
 - Teachers may give hints but encourage independent problem-solving.  
-- For Lesson 10, students are **encouraged to solve independently**, with fewer points awarded if teacher help is used.  
 
 ### Using Codespaces
 1. Open the repository in **GitHub Codespaces** by clicking the green **Code** button on the repo page and selecting **Codespaces → New codespace**.  
 2. When prompted, select **2-core machine** for better performance.  
 3. This will launch a ready-to-use online development environment in your browser, with Node.js pre-installed.  
 4. Students can code directly in Codespaces without needing to install anything locally.  
-5. The curriculum uses `prompt-sync` for user input in JavaScript files. Open the Codespaces terminal and run `npm install` once before running files that use input.  
 
 #### Running JavaScript Files
 - To run a file, open the terminal and use `node path/to/file.js`  
-- Example: `node lesson2/classwork/input.js`  
+- Example: `node lesson2/classwork/for_loop.js`  
 
 #### Saving Your Work in Codespaces
 1. When you make changes, they are saved automatically in the Codespaces environment, but **not yet in GitHub**.  
@@ -62,4 +56,4 @@ The lessons cover:
   - **Sample code**
   - **Practice problems**
   - **Homework problems**
-- Lesson 10 only includes a problem set which has **points per problem** based on difficulty.
+- Each lesson includes practice problems and homework problems.  

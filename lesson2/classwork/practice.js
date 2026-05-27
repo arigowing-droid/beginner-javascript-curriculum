@@ -1,11 +1,11 @@
 // Problem 1
-// Ask the user for their age.
-// Calculate and print how many decades old they are, rounded to the nearest whole number.
+// Create a variable for your age.
+// Calculate and print how many decades old you are, rounded down.
 
 
 
 // Problem 2
-// Ask the user to enter a number.
+// Create a variable for a number.
 // Print the result of multiplying that number by 5.
 
 
@@ -16,10 +16,11 @@
 
 
 // Problem 4
-// Ask the user for their name and age.
-// Print their name and how old they will be one year in a single sentence.
+// Create variables for your name and age.
+// Print your name and how old you will be in one year in a single sentence.
 
 
 
 // Problem 5
 // Use a for loop to print the numbers from 2 to 8, one per line.
+

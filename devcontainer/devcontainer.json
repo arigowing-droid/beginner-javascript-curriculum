@@ -1,7 +1,6 @@
 {
   "name": "JavaScript Student Workspace",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-  "postCreateCommand": "npm install",
   "customizations": {
     "vscode": {
       "settings": {

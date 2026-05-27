@@ -1,22 +1,25 @@
 // Problem 1
-// Count and print how many times "dog" appears in the list.
+// Write a function that returns the number 42 and print the result.
 
 
 
 // Problem 2
-// Count and print how many numbers are odd in the list (a number is odd if it's not divisible by 2).
+// Write a function that takes two numbers and returns their sum.
 
 
 
 // Problem 3
-// Search for "monkey" in the list and print its index if it's found.
+// Create a global counter starting at 0.
+// Write a function that increases it by 1 and prints it.
 
 
 
 // Problem 4
-// Search for 99 in the list and print if itâ€™s found.
+// Use a while loop to print the word "JavaScript" 4 times.
 
 
 
 // Problem 5
-// Count and print how many numbers are even in the list (a number is odd if it's divisible by 2).
+// Create a list of your three favorite animals.
+// Use a while loop to print each animal with the text "is awesome!" after it.
+

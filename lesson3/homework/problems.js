@@ -1,31 +1,30 @@
 // Problem 1
-// Ask the user to enter a number.
-// Print "Even" if the number is divisible by 2, otherwise print "Odd".
+// Create a variable for a number.
+// Print whether the number is positive, negative, or zero.
 
 
 
 // Problem 2
-// Ask the user for the day of the week (all lowercase).
-// Print "Weekend" if the day is "saturday" or "sunday",
-// else print "Weekday".
+// Create a variable for a number.
+// Print whether it is even or odd.
+
 
 
 
 // Problem 3
-// Generate a random number between 1 and 10 (inclusive).
-// Ask the user to guess the number.
-// Print "Correct!" if the guess matches the random number, else print "Try again!".
+// Create variables for age and has_permission.
+// Print "Can go" if age is at least 12 or has_permission is true.
+// Otherwise print "Cannot go".
 
 
 
 // Problem 4
-// Ask the user for a positive integer.
-// If the number is divisible by 2 and greater than 10, print "Big even number".
-// Otherwise print "Number does not meet criteria".
+// Create a variable for a number.
+// Print whether it is divisible by 2 and 3.
 
 
 
 // Problem 5
-// Ask the user for two numbers.
-// Print which number is larger.
-// If the numbers are equal, print "Numbers are equal".
+// Create a variable for a temperature.
+// Print "Cold" if below 50, "Warm" if 50-79, and "Hot" if 80 or above.
+
